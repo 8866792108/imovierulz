@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="/https://8866792108.github.io/imovierulz//sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://8866792108.github.io/imovierulz/</link>
+	<atom:link href="https://8866792108.github.io/imovierulz/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://8866792108.github.io/imovierulz</link>
 	<description></description>
 	<lastBuildDate>Mon, 27 Nov 2023 05:34:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
